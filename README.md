@@ -4,7 +4,6 @@
 - 🌱 I'm currently learning web development, but I'm interested in cybersecurity too
 - 🤔 I’m looking for help with Cybersecurity
 - 📫 How to reach me: diogo.s.teki@hotmail.com or diogo.globaltouch@gmail.com
-- 😄 Pronouns: ele/dele
 - ⚡ Fun fact: I love ukulele, I like to play Path of Exile and I am looking for new hobbies
 <div align="center">
   <a href="https://github.com/Dihh-barret">
