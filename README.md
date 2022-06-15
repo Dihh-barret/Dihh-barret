@@ -1,8 +1,8 @@
 ### Hi there 👋, i'm Dihh-Barret
 
 - 🔭 I am currently working on customer success at global touch
-- 🌱 I'm currently learning web development, but I'm interested in cybersecurity too
-- 🤔 I’m looking for help with Cybersecurity
+- 🌱 I'm currently learning Android development
+- 🤔 I’m looking for help with Kotlin
 - 📫 How to reach me: diogo.s.teki@hotmail.com or diogo.globaltouch@gmail.com
 - ⚡ Fun fact: I love ukulele, I like to play Path of Exile and I am looking for new hobbies
 <div align="center">
